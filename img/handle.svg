@@ -1,0 +1,18 @@
+<?xml version="1.1" encoding="UTF-8"?>
+<svg width="13px" height="13px" xmlns="http://www.w3.org/2000/svg" version="1.1">
+	<title>handle</title>
+	<description>Sketch is nice, but I made this by hand in the end. (http://www.bohemiancoding.com/sketch)</description>
+	<defs>
+		<linearGradient id="inner-shadow" x1="50%" y1="0%" x2="50%" y2="100%">
+			<stop offset="0%" style="stop-color:rgb(100, 100, 100); stop-opacity:100"></stop>
+			<stop offset="33%" style="stop-color:rgb(100, 100, 100); stop-opacity:100"></stop>
+			<stop offset="34%" style="stop-color:rgb(200, 200, 200); stop-opacity:100"></stop>
+			<stop offset="100%" style="stop-color:rgb(255, 255, 255); stop-opacity:100"></stop>
+		</linearGradient>
+	</defs>
+	<g fill="none">
+		<rect x="0" y="0" rx="1" ry="1" width="13" height="3" style="fill:url(#inner-shadow)"/>
+		<rect x="0" y="5" rx="1" ry="1" width="13" height="3" style="fill:url(#inner-shadow)"/>
+		<rect x="0" y="10" rx="1" ry="1" width="13" height="3" style="fill:url(#inner-shadow)"/>
+	</g>
+</svg>
